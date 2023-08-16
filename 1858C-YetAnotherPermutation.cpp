@@ -36,7 +36,7 @@ int main(void)
         {
             for (int j = i; j <= n; j *= 2)
             {
-                a.push_back(j);
+                a.PUB(j);
             }
         }
 
